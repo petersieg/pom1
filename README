@@ -1,6 +1,9 @@
 pom1_lion.dmg   = Disk Image with pom1 app; created under Mac OSX Lion
 pom1_bigsur.dmg = Disk Image with pom1 app; created under Mac OSX Big Sur
 
+libsdl1.2compat is included in the app. But you need to install libsdl2!
+sudo port install libsdl2
+
 Pom1 is an Apple 1 emulator being ported to C from the original Java 
 version. It uses the Simple DirectMedia Layer library and works on most 
 platforms.
