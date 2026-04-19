@@ -12,4 +12,10 @@ APPLE30TH.txt	- 280
 hello_world.txt	- 280
 mastermind.apl.txt - 300
 mandelbrot-65.txt - 280
+
+To load such a prograM:
+CTRL+L
+Filename: type/hello_world.txt
+1 (ASCII)
+1 (Type)
 ```
